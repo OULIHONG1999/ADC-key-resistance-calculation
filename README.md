@@ -139,11 +139,11 @@ if __name__ == "__main__":
 
 ### 2. 图像说明
 - **ADC采集值折线图**：横轴为按键序号，纵轴为ADC值，不同颜色代表不同公比，直观展示ADC值分布。
-<img src="images/adc_values.png" width="70%" style="display:block; margin:0 auto; border-radius:5px;">
+<img src="images/plot_2025-04-21 15-05-59_0.png" width="70%" style="display:block; margin:0 auto; border-radius:5px;">
 
 
 - **相邻差值折线图**：横轴为相邻按键序号，纵轴为差值，用于评估按键区分度（差值越大，区分越容易）。
-<img src="images/adc_differences.png" width="70%" style="margin:20px auto; display:block; border:1px solid #eee;">
+<img src="images/plot_2025-04-21 15-05-59_1.png" width="70%" style="margin:20px auto; display:block; border:1px solid #eee;">
 
 
 ## 八、注意事项
