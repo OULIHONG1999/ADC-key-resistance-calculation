@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="adc按键的电阻值计算" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="adc_key_res_calculation" project-jdk-type="Python SDK" />
+</project>
